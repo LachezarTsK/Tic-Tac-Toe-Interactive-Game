@@ -31,7 +31,7 @@ public:
 	Actually, for demonstration purposes, file 'test.cpp' contains tests with 
 	both methods: one test group requiring interactive input during the test and 
 	another test group taking a predefined input. Optionally, one of these groups of tests
-    can be disabled. 
+        can be disabled. 
 	*/
 	std::string enterCoordinates(const Board& board, const std::string& input) const;
 
